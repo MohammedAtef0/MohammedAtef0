@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to learn 😁
 - 📫 How to reach me? Just send a message on the link below 👀
 - ->> www.linkedin.com/in/mohammedatefsalah
-<script src="https://tryhackme.com/badge/1196318"></script>
+![TryHackMe Badge](https://tryhackme.com/badge/1196318)
 <!---
 MohammedAtef0/MohammedAtef0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
