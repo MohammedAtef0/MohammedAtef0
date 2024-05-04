@@ -4,8 +4,7 @@
 - ->> www.linkedin.com/in/mohammedatefsalah
 --->
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
-- 👀 I’m interested in RedTeamers, programming, and technologies. 
-
+- 👀 I’m interested in RedTeamers, programming, and technologies.
 - 🌱 I’m currently learning how to learn 😁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
