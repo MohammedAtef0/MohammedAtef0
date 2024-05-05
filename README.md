@@ -2,7 +2,7 @@
 - 📫 How to reach me? Just send a message on the link below 👀
 - ->> www.linkedin.com/in/mohammedatefsalah
 --->
-<script src="https://tryhackme.com/badge/1196318"></script>
+![tryhackme stats](https://raw.githubusercontent.com/MohammedAtef0/MohammedAtef0/master/assets/<script src="https://tryhackme.com/badge/1196318"></script>)
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
 <h3 align="left">Empowering minds, securing futures, and hacking the boundaries of possibility – where dreams soar higher than the sky itself.</h3>
 
