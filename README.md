@@ -3,7 +3,9 @@
 - ->> www.linkedin.com/in/mohammedatefsalah
 --->
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
-<h3 align="left">- 👀 I’m interested in RedTeamers, Pen Testing, Bug Bounty Hunting, programming, and technologies. </h3>
+<h3 align="left">Empowering minds, securing futures, and hacking the boundaries of possibility – where dreams soar higher than the sky itself</h3>
+
+- 👀 I’m interested in RedTeamers, Pen Testing, Bug Bounty Hunting, programming, and technologies.
 
 - 🔭 I’m currently working on **Deep Fake Detection and Creation (DFDF)**
 
