@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **Deep Fake Detection and Creation (DFDF)**
 
+
 - 💬 Ask me about **Teaching, Hunting, Cybersecurity, Networking, and Programming.**
 
-<h3 align="left"> - 🌱 I’m currently learning how to learn 😁 </h3>
+- 🌱 I’m currently learning how to learn 😁
+
 
 - ⚡ Fun fact **" I am the wisest man alive, for I know one thing, and that is that I know nothing. "**
 
