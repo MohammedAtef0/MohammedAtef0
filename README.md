@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedAtef0&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedAtef0" /> </p>
 <!---
 - 📫 How to reach me? Just send a message on the link below 👀
 - ->> www.linkedin.com/in/mohammedatefsalah
@@ -10,9 +9,11 @@
 
 - 💬 Ask me about **Teaching, Hunting, Cybersecurity, Networking, and Programming.**
 
-<h3 align="left">- 🌱 I’m currently learning how to learn 😁 </h3>
+<h3 align="left"> - 🌱 I’m currently learning how to learn 😁 </h3>
 
 - ⚡ Fun fact **" I am the wisest man alive, for I know one thing, and that is that I know nothing. "**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedAtef0&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedAtef0" /> </p>
 <!---
 - 👀 I’m interested in RedTeamers, programming, and technologies.
 - 🌱 I’m currently learning how to learn 😁
