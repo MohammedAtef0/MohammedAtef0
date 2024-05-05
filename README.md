@@ -2,11 +2,6 @@
 - 📫 How to reach me? Just send a message on the link below 👀
 - ->> www.linkedin.com/in/mohammedatefsalah
 --->
-<p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MohammedAtef.png" alt="TryHackMe">
-</p>
-<a href="https://data.typeracer.com/pit/profile?user=medo_1010&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=medo_1010" border="0" alt="TypeRacer.com scorecard for user medo_1010"/></a>
-
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
 <h3 align="left">Empowering minds, securing futures, and hacking the boundaries of possibility – where dreams soar higher than the sky itself.</h3>
 
@@ -42,7 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedatef0&show_icons=true&locale=en" alt="mohammedatef0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedatef0&" alt="mohammedatef0" /></p>
-
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MohammedAtef.png" alt="TryHackMe">
+</p>
+<a href="https://data.typeracer.com/pit/profile?user=medo_1010&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=medo_1010" border="0" alt="TypeRacer.com scorecard for user medo_1010"/></a>
 <!---
 MohammedAtef0/MohammedAtef0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
