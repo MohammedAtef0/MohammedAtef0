@@ -5,6 +5,8 @@
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/MohammedAtef.png" alt="TryHackMe">
 </p>
+<a href="https://data.typeracer.com/pit/profile?user=medo_1010&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=medo_1010" border="0" alt="TypeRacer.com scorecard for user medo_1010"/></a>
+
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
 <h3 align="left">Empowering minds, securing futures, and hacking the boundaries of possibility – where dreams soar higher than the sky itself.</h3>
 
